@@ -89,3 +89,6 @@ screenshots below. Happy coding!
 
 **Confirmation**
 ![Image uploaded](http://dl.dropbox.com/s/14ta3p7b5vkz9ax/Screen%20Shot%202014-10-19%20at%203.21.31%20PM.png?dl=0)
+
+###License:
+[MIT License](http://pete.mit-license.org/)
